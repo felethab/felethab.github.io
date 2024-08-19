@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://felethab.github.io/sitemap.html.gz
+Sitemap: https://felethab.github.io/app/sitemap.html.gz
+Sitemap: https://felethab.github.io/assets/sitemap.html.gz
+Sitemap: https://felethab.github.io/css/sitemap.html.gz
+Sitemap: https://felethab.github.io/includes/sitemap.html.gz
+Sitemap: https://felethab.github.io/item/sitemap.html.gz
+Sitemap: https://felethab.github.io/src/sitemap.html.gz
